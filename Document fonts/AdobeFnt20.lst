@@ -1,0 +1,166 @@
+%!Adobe-FontList 1.20
+%Locale:0x411
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\Arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:774476
+FileModTime:1274679358
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+FullName:Open Sans Bold
+MenuName:Open Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:224592
+FileModTime:315500400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Bold
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Extrabold
+FamilyName:Open Sans
+StyleName:Extrabold
+FullName:Open Sans Extrabold
+MenuName:Open Sans Extrabold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222584
+FileModTime:315500400
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Extrabold
+NameArray:0,Win,1,Open Sans Extrabold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+FullName:Open Sans Light
+MenuName:Open Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222412
+FileModTime:1305091006
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Light
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217360
+FileModTime:315500400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Semibold
+FamilyName:Open Sans
+StyleName:Semibold
+FullName:Open Sans Semibold
+MenuName:Open Sans Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:221328
+FileModTime:315500400
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Semibold
+NameArray:0,Win,1,Open Sans Semibold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ZapfDingbatsITC
+FamilyName:Zapf Dingbats
+StyleName:Regular
+FullName:Zapf Dingbats
+MenuName:Zapf Dingbats
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\ZapfDingbats.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:156088
+FileModTime:1510057892
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Zapf Dingbats
+%EndFont
+
