@@ -11,7 +11,7 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\Arial.ttf
+OutlineFileName:C:\Users\maabou\Documents\trabajo\Translation\LFCertPrepGuide\Document fonts\Arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -34,7 +34,7 @@ FullName:Open Sans Bold
 MenuName:Open Sans
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Bold.ttf
+OutlineFileName:C:\Users\maabou\Documents\trabajo\Translation\LFCertPrepGuide\Document fonts\OpenSans-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -57,7 +57,7 @@ FullName:Open Sans Extrabold
 MenuName:Open Sans Extrabold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-ExtraBold.ttf
+OutlineFileName:C:\Users\maabou\Documents\trabajo\Translation\LFCertPrepGuide\Document fonts\OpenSans-ExtraBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -81,7 +81,7 @@ FullName:Open Sans Light
 MenuName:Open Sans Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Light.ttf
+OutlineFileName:C:\Users\maabou\Documents\trabajo\Translation\LFCertPrepGuide\Document fonts\OpenSans-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -105,7 +105,7 @@ FullName:Open Sans
 MenuName:Open Sans
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Regular.ttf
+OutlineFileName:C:\Users\maabou\Documents\trabajo\Translation\LFCertPrepGuide\Document fonts\OpenSans-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -128,7 +128,7 @@ FullName:Open Sans Semibold
 MenuName:Open Sans Semibold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\OpenSans-Semibold.ttf
+OutlineFileName:C:\Users\maabou\Documents\trabajo\Translation\LFCertPrepGuide\Document fonts\OpenSans-Semibold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -152,7 +152,7 @@ FullName:Zapf Dingbats
 MenuName:Zapf Dingbats
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maabou\Documents\translations\Certification Prep Guide\Certification Prep Guide\Document fonts\ZapfDingbats.ttf
+OutlineFileName:C:\Users\maabou\Documents\trabajo\Translation\LFCertPrepGuide\Document fonts\ZapfDingbats.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
